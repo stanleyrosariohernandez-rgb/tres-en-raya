@@ -37,4 +37,4 @@ Ya con el juego programado, el siguiente reto fue que el tablero se veía como u
 4. Abre `http://localhost:5173` en el navegador.
 
 ## Captura de pantalla
-![public](captura de pantalla 2026-10-30 190252.png)
+     ![Captura del juego](public/captura de pantalla 2026-10-30 190252.png)
