@@ -1,0 +1,2 @@
+38a3bbd agrego estilos con coloresde la bandera dominicana
+4ecae01 agrego lógica del juego y estilos
